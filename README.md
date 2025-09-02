@@ -97,7 +97,7 @@ The project includes CI-compatible ESLint configuration to ensure successful dep
 - **CI/Production builds**: Disable problematic warnings to prevent build failures
 - **Cross-platform support**: Uses `cross-env` for environment variables
 
-For detailed ESLint configuration information, see [`client/ESLINT_CONFIG.md`](client/ESLINT_CONFIG.md).
+For detailed ESLint configuration information : [`client/ESLINT_CONFIG.md`](client/ESLINT_CONFIG.md).
 
 ---
 
@@ -122,4 +122,5 @@ Expect support for <b>DOCX</b>, <b>HTML</b>, <b>PowerPoint</b>, and more—comin
 Made with ❤️ by the PrintScript team  
 <a href="#">Report Bug</a> • <a href="#">Request Feature</a>
 </div>
+
 
