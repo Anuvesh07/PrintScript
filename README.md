@@ -13,7 +13,7 @@
 
 <br>
 
-## 🚀 [Live Demo]([[https://printscript-cilre1mko-masters-projects-0e320efc.vercel.app/](https://printscript-git-main-masters-projects-0e320efc.vercel.app](https://printscript.netlify.app/)))
+## 🚀 [Live Demo]([[[https://printscript-cilre1mko-masters-projects-0e320efc.vercel.app/](https://printscript-git-main-masters-projects-0e320efc.vercel.app](https://printscript.netlify.app/](https://printscript-git-main-masters-projects-0e320efc.vercel.app?_vercel_share=3E3OiuVV9v6EtCmdyTfKS7ssyHdwbjZT))))
 
 <a href="https://printscript-cilre1mko-masters-projects-0e320efc.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀%20Try%20Live%20Demo-Click%20Here-blue?style=for-the-badge&color=6366f1" alt="Try Live Demo" />
@@ -122,5 +122,6 @@ Expect support for <b>DOCX</b>, <b>HTML</b>, <b>PowerPoint</b>, and more—comin
 Made with ❤️ by the PrintScript team  
 <a href="#">Report Bug</a> • <a href="#">Request Feature</a>
 </div>
+
 
 
